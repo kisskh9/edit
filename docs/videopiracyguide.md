@@ -224,6 +224,7 @@
 * [DramaCool.bg](https://dramacool.bg/) - TV / Movies
 * [DramaCool.com](https://dramacool.com.tr/), [2](https://dramacool.tools/) - TV / Movies
 * [dramacool](https://dramacool.com.cv/) - TV / Movies
+* [Dramacool.biz.tr](https://dramacool.biz.tr/) - TV / Movies
 * [DramaGo](https://dramago.in/) - TV / Movies
 * [onedrama](https://onedrama.me/) - TV / Movies
 * [DramaFull](https://dramafull.net/) - TV / Movies / Auto-Next
