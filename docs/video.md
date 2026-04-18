@@ -361,6 +361,7 @@
 * [DramaFire](https://dramafire.com.pl/) - TV / Movies
 * [KissAsian.video](https://kissasian.video/) - TV / Movies
 * [KissKH.dk](https://kisskh.dk/) - TV / Movies
+* [KissKH.red](https://kisskh.red/) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [AsianSubs](https://asiansubs.com/) - TV / Movies
 * [Dramacool.sr](https://www12.dramacool.sr/) - TV / Movies
